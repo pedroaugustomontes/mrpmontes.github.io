@@ -45,6 +45,6 @@ img {
     word-break: break-all;
     line-height: 1;
     text-transform: capitalize;
-    max-width: initial;
+    max-width: initial !important;
   }
 }
