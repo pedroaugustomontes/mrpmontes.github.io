@@ -78,6 +78,7 @@
   border-radius: 4px;
   line-height: 1.4;
   background: #ffffff;
+  padding: 5px;
 }
 
 @media (max-width: 800px) {
@@ -96,7 +97,12 @@
     order: 1;
     width: initial;
     text-align: center;
+    color: #141414;
+    font-weight: bold;
   }
+  /* .empresa-ano::before {
+    content: "Ano: ";
+  } */
 }
 
 @media (max-width: 400px) {
